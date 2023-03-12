@@ -1,2 +1,2 @@
-# HTML-bolum-sonu-calismasi
-HTML ile ilgili öğrendiğim her şeyi kullanmaya özen gösterdiğim bir çalışma oldu.
+# HTML End of Chapter Work
+My first end of chapter work at Kodluyoruz- Patika Dev lessons.
